@@ -1,0 +1,12 @@
+{
+    "ID":"8A7533400AF411F08E46E4A471F845E8",
+    "ActionKeyword":"s",
+    "Name":"QueryInMultipleEngines",
+    "Description":"A python plugin to query in Multiple engines",
+    "Author":"zhaobaimei",
+    "Version":"1.0.0",
+    "Language":"python",
+    "Website":"https://github.com/ElonZhaoXin/Wox.Plugin.OpenMultipleURLsAtOnce",
+    "IcoPath":"Images\\app.ico",
+    "ExecuteFileName":"main.py"
+}

@@ -1,0 +1,7 @@
+{
+    "wechat":"https://weixin.sogou.com/weixin?type=2&query={}",
+    "bing":"https://cn.bing.com/search?q={}&PC=U316&FORM=CHROMN",
+    "baidu":"https://www.baidu.com/#ie=UTF-8&wd={}",
+    "sogou":"https://www.sogou.com/sogou?query={}",
+    "zhihu":"https://www.zhihu.com/search?type=content&q={}"
+}
